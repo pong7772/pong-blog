@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <h2>HOme</h2>
-  </div>
+  <div>product</div>
 </template>
 
 <script setup>
